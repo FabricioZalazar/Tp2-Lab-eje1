@@ -151,5 +151,10 @@ public class TP1Lab {
         for (Pelicula p2 : ListadePeli) {
             System.out.println(p2.getTitulo() + " [" + p2.getDirector() + "]");
         }
+        
+        //Prueba git
+        System.out.println("Hola");
+        System.out.println("");
+        
     }
 }
