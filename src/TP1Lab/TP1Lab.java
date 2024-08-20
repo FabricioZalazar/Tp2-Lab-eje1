@@ -152,4 +152,6 @@ public class TP1Lab {
             System.out.println(p2.getTitulo() + " [" + p2.getDirector() + "]");
         }
     }
+    //PRUEBA GIT
+    System.out.println("-----------------------------------------------");    
 }
