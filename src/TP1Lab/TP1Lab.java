@@ -37,10 +37,7 @@ public class TP1Lab {
         for (String ele : Lista) {
             System.out.println("Raza = " + ele);
         }
-        
-        
-        
-        
+
         //EJE 2
         System.out.print("Introduce una raza para buscar y eliminar: ");
         String razaABuscar = leer.nextLine();
@@ -70,12 +67,7 @@ public class TP1Lab {
         for (String raza : Lista) {
             System.out.println(raza);
         }
-        
-        
-        
-        
-        
-        
+
         //EJE 3
         List<Pelicula> ListadePeli = new ArrayList();
 
@@ -151,12 +143,13 @@ public class TP1Lab {
         for (Pelicula p2 : ListadePeli) {
             System.out.println(p2.getTitulo() + " [" + p2.getDirector() + "]");
         }
-        
+
         //Prueba git
         System.out.println("Hola");
         System.out.println("");
-        
+
+        //PRUEBA GIT
+        System.out.println("-----------------------------------------------");
     }
-    //PRUEBA GIT
-    System.out.println("-----------------------------------------------");    
+
 }
