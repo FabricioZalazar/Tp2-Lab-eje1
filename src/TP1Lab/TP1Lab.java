@@ -15,7 +15,7 @@ public class TP1Lab {
         ArrayList<String> Lista = new ArrayList();
         boolean bandera = true;
         while (bandera) {
-            System.out.println("ingrese la raza de perro");
+            System.out.println("ingrese la raza de perro meessi");
             String raza = leer.nextLine();
             Lista.add(raza);
             System.out.println("quiere ingresar otra raza");
